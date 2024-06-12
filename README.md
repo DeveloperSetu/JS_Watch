@@ -2,7 +2,7 @@
 Real time Watch
 IDE:
    Visual Studio Code
-Technology:
- # HTML
- # CSS
- # JavaScript
+# Technology:
+  HTML
+  CSS
+  JavaScript
